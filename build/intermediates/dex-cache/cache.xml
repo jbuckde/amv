@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="cd2804183816f58f015431fe85fd5ee317274693">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_13d90c2539e82c8b05cfa7286fa9d3995e65fca1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_e840f19c63a39522507fac8050955bf12008d51a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_55f0a651819fb1010e2005f18d66f62fed3feb76\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="f7f534175d71fa32fbefa7a38648a776943ae977">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b62bec9ce4e9aa9301c79ae21eb9d3ea936e921c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_73b7dca171a66a3f7df4350beae17f0e3bb64ec2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\D054910\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\SAPDevelop\android_studio_projects\mjpegAndroid\mjpegAndroid\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_5515afd69a0d13195fc4f70d165d786f04188eba\classes.dex" />
+    </item>
+
+</items>
